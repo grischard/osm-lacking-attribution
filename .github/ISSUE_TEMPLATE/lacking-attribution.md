@@ -13,23 +13,19 @@ When **adding an usage of OpenStreetMap data where the attribution isn't correct
 
 ## Type
 
-- [ ] Website
-- [ ] App
-- [ ] Print
-- [ ] Other, please explain
+Website/App/Print/Other (please explain)
 
-## URL of the usage, if online
+## URL of the usage, if online. Otherwise, where to find it.
 
 ## How to reproduce
 
 ## Approximate size of the map displayed
 
-(width and height)
+(width and height, or full screen)
 
-## Screenshot attached
-(use the little cloud with the arrow at the top right of this form)
+## Screenshot
 
-[yes/no]
+Use the little cloud with the arrow at the top right of this form, or put an URL here
 
 ## Usage is substantial
 ( see https://wiki.osmfoundation.org/wiki/Licence/Community_Guidelines/Substantial_-_Guideline )
@@ -38,18 +34,16 @@ When **adding an usage of OpenStreetMap data where the attribution isn't correct
 
 ## Attribution is:
 
-- [ ] completely absent
-- [ ] incomplete
-- [ ] hidden
-- [ ] broken
-- [ ] Other, please explain
+Completely absent/partially absent/incomplete/hidden/broken? Please explain.
 
 # Contact with author
+## Name of author or company name
 
-## Author or company name
-
-## Contacted
+## Detail of contact
 
 (See https://wiki.openstreetmap.org/wiki/Lacking_proper_attribution/Example_email for an example letter to send)
 
 [detail of contacts, or "not contacted"]
+
+
+# Actions already taken
