@@ -43,7 +43,7 @@ Completely absent/partially absent/incomplete/hidden/broken? Please explain.
 
 (See https://wiki.openstreetmap.org/wiki/Lacking_proper_attribution/Example_email for an example letter to send)
 
-[detail of contacts, or "not contacted"]
+[detail of contacts, or "not contacted". Include dates.]
 
 
 # Actions already taken
